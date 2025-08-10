@@ -1,4 +1,3 @@
-```markdown
 # C# Compiler Project
 
 This project is a simple lexical and syntactical analyzer for a custom programming language. It performs lexical analysis to identify keywords, identifiers, constants, operators, and syntax analysis to validate the structure of the program.
